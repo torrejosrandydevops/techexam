@@ -1,0 +1,8 @@
+app/user-service
+app/product-service
+lib/common-utils
+app/auth-service
+app/payment-service
+app/notification-service
+lib/shared-components
+app/inventory-service 
